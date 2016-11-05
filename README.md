@@ -20,7 +20,7 @@ Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning
 
 This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
 
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the math for the beginner. 
+My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the math for the beginner.
 This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
 
 Please, feel free to make any contributions you feel will make it better.
@@ -94,13 +94,13 @@ I'm a Vietnamese Software Engineer who are really passionate and want to work in
 
 How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
 
-I'm on the journey. 
+I'm on the journey.
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
 | ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
 |:---:|
-| USA as heck | 
+| USA as heck |
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I can that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -119,9 +119,9 @@ from public sources and replacing the online course videos over time. I like usi
 
 This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-- [ ] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+- [x] [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [x] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## The Daily Plan
@@ -265,7 +265,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 ## Resources
-- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
+- [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
